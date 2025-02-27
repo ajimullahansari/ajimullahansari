@@ -25,5 +25,5 @@
 [![](https://visitcount.itsvg.in/api?id=ajimullahansari&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### Watch snake eating my github contributions
-
+### Watch snake eating my github contributions👍🫡
+![snake gif](https://github.com/ajimullahansari/ajimullahansari/blob/output/github-snake-dark.svg)

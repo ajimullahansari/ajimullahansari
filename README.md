@@ -1,5 +1,10 @@
 # 💫 About Me:
-🏫 Software Engineer about my journey and learning in tech studied computer<br>Science at Institute of Engineering and technology DDU University Gorakhpur (INDIA)
+💻 Software Engineer | Full-Stack Web Developer  
+Machine Learning Enthusiast | Startup Founder  
+Founder @ NK Software Solution  
+Designing and developing scalable, secure, and user-centric web applications.  
+Providing reliable, high-quality, and affordable software solutions for clients and businesses.
+
 
 
 ## 🌐 Socials:

@@ -1,10 +1,9 @@
 # 💫 About Me:
 💻 Software Engineer | Full-Stack Web Developer  
 Machine Learning Enthusiast | Startup Founder  
-
-Founder & Lead Developer, NK Software Solution  
-Focused on building scalable digital products and delivering cost-effective solutions  
-for startups, businesses, and individual clients.
+Founder & Lead Developer @ NK Software Solution  
+Building scalable, secure, and user-centric digital products.  
+Helping startups and businesses turn ideas into reliable, affordable software solutions
 .
 
 
